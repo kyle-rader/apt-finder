@@ -9,6 +9,8 @@ don't expose — using your own local LLM via the Claude Code CLI.
 Built around a concrete use case: *find a studio near Cal Anderson Park and compare
 the walk to the Paramount Theatre, The Cuff, etc.*
 
+> Design and the reasoning behind it live in [`ARCHITECTURE.md`](./ARCHITECTURE.md).
+
 ## How it works
 
 - **Search list** — add an apartment by address; it's geocoded and pinned on the map.

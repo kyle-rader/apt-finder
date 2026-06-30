@@ -1,0 +1,14 @@
+# Rust
+/target
+
+# SQLite database
+*.db
+*.db-shm
+*.db-wal
+
+# Frontend
+frontend/node_modules
+frontend/dist
+
+# Env
+.env
